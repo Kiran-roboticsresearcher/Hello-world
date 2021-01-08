@@ -1,2 +1,3 @@
 # Hello-world
 Working on multi-touch haptic interfaces, robot path planning, and motion control algorithms
+I am passionate in robotics(kinematics & dynamics), optimization modeling, and controls. An innovative and transformative industrial engineer with experience in robotics, process optimization, quality engineering, exceptional leadership, and meticulous project execution. A "best of both worlds" deep expertise in automation control and operations research platforms. present a skill set that combines robotics research and industrial engineering experience. Specifically interested in meshing these areas of expertise to deliver value as a Robotics Engineer
